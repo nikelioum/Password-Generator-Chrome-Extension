@@ -26,6 +26,11 @@ Generate strong and secure passwords effortlessly with the Password Generator Ch
 
 ![Extension manager](https://i.ibb.co/j4D0bYw/Screenshot-from-2024-01-27-21-24-03.png)
 
+![Extension manager](https://i.ibb.co/W67FWdZ/Screenshot-from-2024-01-27-21-25-03.png)
+
+![Extension manager](https://i.ibb.co/2S895yY/Screenshot-from-2024-01-27-21-25-32.png)
+
+
 ## Credits:
 
 This extension was created by Dimitris Liaropoulos for secure and convenient password generation.
