@@ -24,7 +24,7 @@ Generate strong and secure passwords effortlessly with the Password Generator Ch
 4. Click "Load unpacked" and select the extension folder.
 
 
-![Extension Logo](url/to/logo.png)
+![Extension manager](https://i.ibb.co/j4D0bYw/Screenshot-from-2024-01-27-21-24-03.png)
 
 ## Credits:
 
