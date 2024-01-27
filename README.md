@@ -23,6 +23,9 @@ Generate strong and secure passwords effortlessly with the Password Generator Ch
 3. Enable "Developer mode" in the top right.
 4. Click "Load unpacked" and select the extension folder.
 
+
+![Extension Logo](url/to/logo.png)
+
 ## Credits:
 
 This extension was created by Dimitris Liaropoulos for secure and convenient password generation.
